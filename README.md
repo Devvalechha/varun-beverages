@@ -56,7 +56,7 @@ Before finalizing this, I went back through every formula and found a few real i
 
 ## Note on Balance Sheet Ratios
 
-ROE and Debt to Equity are calculated for historical years but left blank for the forecast years — this model only projects the P&L forward, not a full Balance Sheet, so there's no forecasted Equity or Borrowings figure to calculate those ratios from. Rather than fill those cells with a rough guess, I left them out.
+ROE and Debt to Equity are calculated for historical years but left blank for the forecast years this model only projects the P&L forward, not a full Balance Sheet, so there's no forecasted Equity or Borrowings figure to calculate those ratios from. Rather than fill those cells with a rough guess, I left them out.
 
 ---
 
@@ -68,4 +68,4 @@ Built for learning and portfolio purposes. Not investment advice, and shouldn't 
 
 ## Connect
 
-Open to feedback — feel free to raise an issue, or reach out on [LinkedIn](https://www.linkedin.com/in/dev-valechha-48467928a/).
+Open to feedback feel free to raise an issue, or reach out on [LinkedIn](https://www.linkedin.com/in/dev-valechha-48467928a/).
